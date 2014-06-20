@@ -1,7 +1,7 @@
 markdown: redcarpet 
 permalink: /:year/:month/:day/:title/
 url: http://shinya816.github.io
-author: 王川
+author: shinya
 pygments: true
 safe: true
 paginate: 16
