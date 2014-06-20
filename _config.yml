@@ -1,7 +1,7 @@
 markdown: redcarpet 
 permalink: /:year/:month/:day/:title/
-url: http://chunyang-wen.github.io
-author: chunyang-wen
+url: http://shinya816.github.io
+author: shinya
 pygments: true
 safe: true
 paginate: 16
