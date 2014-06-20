@@ -17,7 +17,7 @@ body{font-size: 16px;word-spacing:1px;
 margin-right:auto;
 	font-family:"Galdeano","Hiragino Sans GB","Microsoft YaHei",Trebuchet,"Trebuchet MS",Tahoma,"Lucida Grande","Lucida Sans Unicode",Verdana,sans-serif;color: #99CC99;background-color:#ffffff;}
 *{padding:0;margin: 0;border:none;outline:none;}
-a{color: #FF9900;text-decoration:none;font-size: 17px;}
+a{color: #FF9900;text-decoration:none;font-size: 15px;}
 a:hover{color:#99CC99;border-bottom:1px dashed;text-decoration:none;}
 hr{margin:.7em 0;border-top: 1px dashed #99CC99;border-bottom: 1px dashed #99CC99;}
 p{padding:.5em 0;}
@@ -47,7 +47,7 @@ blockquote p{margin:0;padding:.5em 0;}
 .pageNav{font-weight:bold;font-size:17px;}
 .pageNavInvalid{font-weight:bold;font-size:17px;color: #FFCC99;}
 header{padding:.5em 0;border-bottom: 1px dashed #FFCC00;}
-nav{font-family:"Electrolize",sans-serif;font-size:1.1em;text-transform:uppercase;float:left;margin-left:-12em;width:9em;text-align:right;}
+nav{font-family:"Electrolize",sans-serif;font-size:1.1em;text-transform:uppercase;float:left;margin-left:-12em;width:7em;text-align:right;}
 nav a{display:block;padding:.7em 1em;color: #009966;}
 nav a:hover{background-color:#99CC99;border-radius:15px;text-decoration:none;color:#f9f9f9;-webkit-transition:color .2s linear;}
 .post{padding:.5em 0em;}
