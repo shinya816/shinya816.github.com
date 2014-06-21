@@ -16,7 +16,7 @@ body{font-size: 16px;word-spacing:1px;
 	margin-left:auto;
 margin-right:auto;
 	font-family:"Galdeano","Hiragino Sans GB","Microsoft YaHei",Trebuchet,"Trebuchet MS",Tahoma,"Lucida Grande","Lucida Sans Unicode",Verdana,sans-serif;color: #CC6699;background-color:#ffffff;}
-*{padding:0;margin: 0;border:none;outline:none;}
+*{padding:0;margin: 0px;border:none;outline:none;}
 a{color: #FF9900;text-decoration:none;font-size: 17px;}
 a:hover{color:#CC6600;border-bottom:1px dashed;text-decoration:none;}
 hr{margin:.7em 0;border-top: 1px dashed #99CC99;border-bottom: 1px dashed #99CC99;}
@@ -52,8 +52,8 @@ nav a{display:block;padding:.7em 1em;color: #009966;}
 nav a:hover{background-color:#99CC99;border-radius:15px;text-decoration:none;color:#f9f9f9;-webkit-transition:color .2s linear;}
 .post{padding:.5em 0em;}
 h1{font-family:"Cuprum","Hiragino Sans GB","Microsoft YaHei",sans-serif;font-size:1.6em;color: #0099CC;}
-h2{font-family:"Cuprum","Hiragino Sans GB","Microsoft YaHei",sans-serif;font-size:1.4em;color: #FF9900;}
-h3{font-family:"Cuprum","Hiragino Sans GB","Microsoft YaHei",sans-serif;font-size:1.2em;color:#222;}
+h2{font-family:"Cuprum","Hiragino Sans GB","Microsoft YaHei",sans-serif;font-size:1.4em;color: #FF9900;margin: 10px 0px;}
+h3{font-family:"Cuprum","Hiragino Sans GB","Microsoft YaHei",sans-serif;font-size:1.2em;color: #99CC33;}
 h4{font-family:"Cuprum","Hiragino Sans GB","Microsoft YaHei",sans-serif;font-size:1em;color:#333;}
 pre,code{font-family:Menlo,"Andale Mono",Consolas,"Courier New",Monaco,monospace;font-size:13px;}
 code{background-color: #FFFFCC;padding: 5px;}
