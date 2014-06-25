@@ -1,7 +1,7 @@
 ---
 title: links
 layout: page
-comments: yes
+comments: no
 ---
 
 <a href = "http://www.liaoxuefeng.com/" target="_blank">廖雪峰的官方网站</a>
